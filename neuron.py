@@ -1,8 +1,3 @@
-# Robert Pearce
-# 05/29/2024
-# A neural network implemented using Python following
-# Victor Zhou's guide.
-
 import numpy as np  # Import numpy to help with math.
 
 #-------------------------------
