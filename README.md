@@ -12,5 +12,5 @@ Key Features:
 ## Credit
 This project is based on the guide by Victor Zhou. You can find the original guide [here](https://victorzhou.com/blog/intro-to-neural-networks/).
 
-# Link
+### Link
 https://victorzhou.com/blog/intro-to-neural-networks/
